@@ -4,3 +4,9 @@ conda deactivate
 #### /home/varadaraj/Desktop/Varadaraj/KrishNaikCourse/venv will come in th terminal before the $
 
 pip install -r requirements.txt
+
+Inside the VS code directly run jupyter notebook by installing ipykernel
+pip install ipykernel
+
+Inside the cell of jupyter notebook You can install packages
+Ex: !pip install pandas
