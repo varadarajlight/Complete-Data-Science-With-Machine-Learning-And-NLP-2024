@@ -9,4 +9,5 @@ Inside the VS code directly run jupyter notebook by installing ipykernel
 pip install ipykernel
 
 Inside the cell of jupyter notebook You can install packages
-Ex: !pip install pandas
+Ex:
+!pip install pandas
